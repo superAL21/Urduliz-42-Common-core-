@@ -32,17 +32,54 @@ Combinando la **Lingüística** y la **Ingeniería de Software**. Mi pasión rad
 
 ---
 
-### 🏆 Proyectos destacados en 42 Urduliz
-
-| Proyecto | Descripción | Lenguaje / Tech |
-| :--- | :--- | :--- |
-| **Python Modules (00 - 10)** | Módulos de POO, excepciones, diseño de patrones, Pydantic y programación funcional. | `Python` |
-| **A-Maze-ing** | Generador de laberintos interactivos cumpliendo restricciones y visualización. *(Bonus Pass)* | `C` / `Gráficos` |
-| **push_swap** | Algoritmo optimizado para ordenación de datos en stacks con límites de movimientos. | `C` / `Algoritmos` |
-| **Born2beroot** | Configuración e implementación de entornos virtuales y administración de sistemas. | `Linux` / `Virtualization` |
-| **libft & get_next_line** | Recreación de funciones estándar de C y lector eficiente de archivos por líneas. | `C` / `Sistemas` |
-
 ---
+
+### 📚 Mi Ruta en 42 Urduliz & Proyectos
+
+<details>
+<summary><b>🐍 Módulos de Python (Piscina / Especialización Python) — [VALIDADOS]</b></summary>
+<br>
+
+| Proyecto | Descripción | Habilidades | Nota |
+| :--- | :--- | :--- | :---: |
+| **Python Module 00** | Introducción a sintaxis, tipos de datos y entorno. | `Rigor` `POO` | `100/100` |
+| **Python Module 01** | Programación Orientada a Objetos en profundización. | `POO` `Clases` | `100/100` |
+| **Python Module 02** | Manejo de excepciones y monitoreo de datos. | `Exception Handling` | `100/100` |
+| **Python Module 03** | Estructuras de datos avanzadas en Python. | `Data Structures` | `100/100` |
+| **Python Module 04** | Manipulación de archivos y streams de datos. | `File I/O` | `100/100` |
+| **Python Module 05** | Clases abstractas y polimorfismo. | `Polymorphism` | `100/100` |
+| **Python Module 06** | Sistema de importaciones, paquetes y `__init__.py`. | `Packages` `Modules` | `100/100` |
+| **Python Module 07** | Patrones de diseño e interfaces. | `Design Patterns` | `100/100` |
+| **Python Module 08** | Entornos virtuales, `pip`, `Poetry` y variables de entorno. | `Data Engineering` | `100/100` |
+| **Python Module 09** | Validación de datos profesional con Pydantic. | `Pydantic` `Data Validation` | `100/100` |
+| **Python Module 10** | Programación funcional avanzada, decoradores y lambdas. | `Functional Prog` | `100/100` |
+
+</details>
+
+<details>
+<summary><b>💻 C & Algoritmos (Common Core - Círculos 0 a 3)</b></summary>
+<br>
+
+| Proyecto | Descripción | Tecnologías | Nota |
+| :--- | :--- | :--- | :---: |
+| **Libft** | Recreación de funciones clave de la librería estándar de C (`libc`). | `C` `Memory` `Pointers` | `Pass` |
+| **ft_printf** | Recreación de la función `printf` utilizando funciones variádicas. | `C` `Variadic Functions` | `Pass` |
+| **get_next_line** | Función para lectura eficiente de archivos línea a línea utilizando buffers. | `C` `File Descriptors` | `125/100` *(Bonus)* |
+| **push_swap** | Ordenación eficiente de datos en dos stacks con un conjunto limitado de instrucciones. | `C` `Algorithms` `Complexity` | `Pass` |
+| **A-Maze-ing** | Generador visual de laberintos con manejo de restricciones y gráficos. | `C` `Algorithms` `Graphics` | `Pass` *(Bonus)* |
+
+</details>
+
+<details>
+<summary><b>🐧 Administración de Sistemas & Infraestructura</b></summary>
+<br>
+
+| Proyecto | Descripción | Tecnologías | Nota |
+| :--- | :--- | :--- | :---: |
+| **Born2beroot** | Configuración inicial de un servidor seguro en Debian/AppArmor con LVM, SSH y Sudo. | `Virtualization` `Linux` `Bash` | `Pass` |
+
+</details>
+
 
 ### 📊 Mis Estadísticas en GitHub
 
