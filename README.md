@@ -61,10 +61,10 @@ Combinando la **Lingüística** y la **Ingeniería de Software**. Mi pasión rad
 | Proyecto | Descripción | Tecnologías | Nota |
 | :--- | :--- | :--- | :---: |
 | [**Libft**](https://github.com/superAL21/libft) | Recreación de funciones clave de la librería estándar de C (`libc`). | `C` `Memory` `Pointers` | `Pass` |
-| **ft_printf** | Recreación de la función `printf` utilizando funciones variádicas. | `C` `Variadic Functions` | `Pass` |
-| **get_next_line** | Función para lectura eficiente de archivos línea a línea utilizando buffers. | `C` `File Descriptors` | `125/100` *(Bonus)* |
-| **push_swap** | Ordenación eficiente de datos en dos stacks con un conjunto limitado de instrucciones. | `C` `Algorithms` `Complexity` | `Pass` |
-| **A-Maze-ing** | Generador visual de laberintos con manejo de restricciones y gráficos. | `C` `Algorithms` `Graphics` | `Pass` *(Bonus)* |
+| [**ft_printf**](https://github.com/superAL21/ft_printf) | Recreación de la función `printf` utilizando funciones variádicas. | `C` `Variadic Functions` | `Pass` |
+| [**get_next_line**](https://github.com/superAL21/get_next_line) | Función para lectura eficiente de archivos línea a línea utilizando buffers. | `C` `File Descriptors` | `125/100` *(Bonus)* |
+| [**push_swap**](https://github.com/superAL21/push_swap) | Ordenación eficiente de datos en dos stacks con un conjunto limitado de instrucciones. | `C` `Algorithms` `Complexity` | `Pass` |
+| [**A-Maze-ing**](https://github.com/superAL21/A-Maze-ing) | Generador visual de laberintos con manejo de restricciones y gráficos. | `C` `Algorithms` `Graphics` | `Pass` *(Bonus)* |
 
 </details>
 
