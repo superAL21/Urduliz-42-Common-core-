@@ -34,6 +34,8 @@ Combinando la **Lingüística** y la **Ingeniería de Software**. Mi pasión rad
 
 ---
 
+---
+
 ### 📚 Mi Ruta en 42 Urduliz & Proyectos
 
 <details>
@@ -53,6 +55,38 @@ Combinando la **Lingüística** y la **Ingeniería de Software**. Mi pasión rad
 | **Python Module 08** | Entornos virtuales, `pip`, `Poetry` y variables de entorno. | `Data Engineering` | `100/100` |
 | **Python Module 09** | Validación de datos profesional con Pydantic. | `Pydantic` `Data Validation` | `100/100` |
 | **Python Module 10** | Programación funcional avanzada, decoradores y lambdas. | `Functional Prog` | `100/100` |
+
+</details>
+
+<details>
+<summary><b>💻 C & Algoritmos (Common Core - Círculos 0 a 3)</b></summary>
+<br>
+
+| Proyecto | Descripción | Tecnologías | Nota |
+| :--- | :--- | :--- | :---: |
+| **Libft** | Recreación de funciones clave de la librería estándar de C (`libc`). | `C` `Memory` `Pointers` | `Pass` |
+| **ft_printf** | Recreación de la función `printf` utilizando funciones variádicas. | `C` `Variadic Functions` | `Pass` |
+| **get_next_line** | Función para lectura eficiente de archivos línea a línea utilizando buffers. | `C` `File Descriptors` | `125/100` *(Bonus)* |
+| **push_swap** | Ordenación eficiente de datos en dos stacks con un conjunto limitado de instrucciones. | `C` `Algorithms` `Complexity` | `Pass` |
+| **A-Maze-ing** | Generador visual de laberintos con manejo de restricciones y gráficos. | `C` `Algorithms` `Graphics` | `Pass` *(Bonus)* |
+
+</details>
+
+<details>
+<summary><b>🐧 Administración de Sistemas & Infraestructura</b></summary>
+<br>
+
+| Proyecto | Descripción | Tecnologías | Nota |
+| :--- | :--- | :--- | :---: |
+| **Born2beroot** | Configuración inicial de un servidor seguro en Debian/AppArmor con LVM, SSH y Sudo. | `Virtualization` `Linux` `Bash` | `Pass` |
+
+</details>
+
+<details>
+<summary><b>🎯 Próximos Objetivos & Enfoque PLN (NLP)</b></summary>
+<br>
+
+- [ ] **Call Me Maybe:** Aplicación de modelos de lenguaje combinando lingüística teórica y desarrollo de software.
 
 </details>
 
