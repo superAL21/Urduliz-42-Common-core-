@@ -91,17 +91,6 @@ Combinando la **Lingüística** y la **Ingeniería de Software**. Mi pasión rad
 </details>
 
 <details>
-<summary><b>💻 C & Algoritmos (Common Core - Círculos 0 a 3)</b></summary>
-<br>
-
-| Proyecto | Descripción | Tecnologías | Nota |
-| :--- | :--- | :--- | :---: |
-| **Libft** | Recreación de funciones clave de la librería estándar de C (`libc`). | `C` `Memory` `Pointers` | `Pass` |
-| **ft_printf** | Recreación de la función `printf` utilizando funciones variádicas. | `C` `Variadic Functions` | `Pass` |
-| **get_next_line** | Función para lectura eficiente de archivos línea a línea utilizando buffers. | `C` `File Descriptors` | `125/100` *(Bonus)* |
-| **push_swap** | Ordenación eficiente de datos en dos stacks con un conjunto limitado de instrucciones. | `C` `Algorithms` `Complexity` | `Pass` |
-| **A-Maze-ing** | Generador visual de laberintos con manejo de restricciones y gráficos. | `C` `Algorithms` `Graphics` | `Pass` *(Bonus)* |
-
 </details>
 
 <details>
