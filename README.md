@@ -32,10 +32,6 @@ Combinando la **Lingüística** y la **Ingeniería de Software**. Mi pasión rad
 
 ---
 
----
-
----
-
 ### 📚 Mi Ruta en 42 Urduliz & Proyectos
 
 <details>
@@ -70,6 +66,9 @@ Combinando la **Lingüística** y la **Ingeniería de Software**. Mi pasión rad
 | **push_swap** | Ordenación eficiente de datos en dos stacks con un conjunto limitado de instrucciones. | `C` `Algorithms` `Complexity` | `Pass` |
 | **A-Maze-ing** | Generador visual de laberintos con manejo de restricciones y gráficos. | `C` `Algorithms` `Graphics` | `Pass` *(Bonus)* |
 
+</details>
+
+<details>
 <summary><b>🐧 Administración de Sistemas & Infraestructura</b></summary>
 <br>
 
@@ -87,19 +86,7 @@ Combinando la **Lingüística** y la **Ingeniería de Software**. Mi pasión rad
 
 </details>
 
-<details>
-</details>
-
-<details>
-<summary><b>🐧 Administración de Sistemas & Infraestructura</b></summary>
-<br>
-
-| Proyecto | Descripción | Tecnologías | Nota |
-| :--- | :--- | :--- | :---: |
-| **Born2beroot** | Configuración inicial de un servidor seguro en Debian/AppArmor con LVM, SSH y Sudo. | `Virtualization` `Linux` `Bash` | `Pass` |
-
-</details>
-
+---
 
 ### 📊 Mis Estadísticas en GitHub
 
