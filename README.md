@@ -1,6 +1,11 @@
 # ¡Hola! Soy Lesly Ajen Licas (lajen-li) 👋 
 ### 📖 Filóloga Hispánica & Lingüista Computacional @ 42 Urduliz 🤖
 
+### 📄 Documentación & Certificados
+
+[![CV](https://img.shields.io/badge/Descargar-CV-blue?style=for-the-badge&logo=adobeacrobatreader&logoColor=white)](./CV_Lajen_Li.pdf)
+[![Transcript](https://img.shields.io/badge/Ver-Expediente_Académico-green?style=for-the-badge&logo=42&logoColor=white)](./Transcript_42_Lajen_Li.pdf)
+
 [![42 Urduliz](https://img.shields.io/badge/42_Urduliz-Level_3.26-000000?style=for-the-badge&logo=42&logoColor=white)](https://42urduliz.com/)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lesly-ajen-licas-04ab49346)
 
