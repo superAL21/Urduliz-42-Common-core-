@@ -9,7 +9,7 @@
 ### 💡 Sobre mí
 Combinante de la **Lingüística** y la **Ingeniería de Software**. Mi pasión radica en la intersección entre el lenguaje humano y la inteligencia artificial: el **Procesamiento del Lenguaje Natural (PLN / NLP)**.
 
-* 🎓 **Formación:** Filología Hispánica + Estudiante del Common Core en **42 Urduliz** (Bizkaia).
+* 🎓 **Formación:** Filología Hispánica **UPV/EHU** + Estudiante del Common Core en **42 Urduliz** (Bizkaia).
 * 🎯 **Enfoque actual:** Programación de sistemas en **C**, desarrollo en **Python**, algoritmos y estructuras de datos.
 * 🧠 **Intereses:** PLN / NLP, Modelos de Lenguaje (LLMs), Algoritmos, Estructuras de Datos y Arquitectura de Software.
 * 🤝 Metodología de aprendizaje **Peer-to-Peer** con enfoque en rigor técnico y buenas prácticas.
