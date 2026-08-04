@@ -40,6 +40,7 @@ Combinando la **Lingüística** y la **Ingeniería de Software**. Mi pasión rad
 
 | Proyecto | Descripción | Habilidades | Nota |
 | :--- | :--- | :--- | :---: |
+[**Módulos de Python**](https://github.com/superAL21/python-modules) | Colección de ejercicios y módulos del cursus de Python. | `Python` `OOP` | `Pass`
 | **Python Module 00** | Introducción a sintaxis, tipos de datos y entorno. | `Rigor` `POO` | `100/100` |
 | **Python Module 01** | Programación Orientada a Objetos en profundización. | `POO` `Clases` | `100/100` |
 | **Python Module 02** | Manejo de excepciones y monitoreo de datos. | `Exception Handling` | `100/100` |
