@@ -1,4 +1,4 @@
-# ¡Hola! Soy Lesly Ajen 👋 
+# ¡Hola! Soy Lesly Ajen Licas (lajen-li) 👋 
 ### 📖 Filóloga Hispánica & Lingüista Computacional @ 42 Urduliz 🤖
 
 [![42 Urduliz](https://img.shields.io/badge/42_Urduliz-Level_3.26-000000?style=for-the-badge&logo=42&logoColor=white)](https://42urduliz.com/)
