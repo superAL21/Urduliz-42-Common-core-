@@ -38,7 +38,7 @@ Combinando la **Lingüística** y la **Ingeniería de Software**. Mi pasión rad
 <summary><b>🐍 Módulos de Python (Piscina / Especialización Python) — [VALIDADOS]</b></summary>
 <br>
 
-[**Módulos de Python**](https://github.com/superAL21/python-modules) | Colección de ejercicios y módulos del cursus de Python. | `Python` `OOP` | `Pass`
+[**Módulos de Python**](https://github.com/superAL21/Python_Modules) | Colección de ejercicios y módulos del cursus de Python. | `Python` `OOP` | `Pass`
 
 | Proyecto | Descripción | Habilidades | Nota |
 | :--- | :--- | :--- | :---: |
