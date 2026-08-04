@@ -2,7 +2,7 @@
 ### 📖 Filóloga Hispánica & Lingüista Computacional @ 42 Urduliz 🤖
 
 [![42 Urduliz](https://img.shields.io/badge/42_Urduliz-Level_3.26-000000?style=for-the-badge&logo=42&logoColor=white)](https://42urduliz.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/TU_LINKEDIN)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lesly-ajen-licas-04ab49346)
 
 ---
 
