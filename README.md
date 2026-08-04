@@ -76,7 +76,7 @@ Combinando la **Lingüística** y la **Ingeniería de Software**. Mi pasión rad
 
 | Proyecto | Descripción | Tecnologías | Nota |
 | :--- | :--- | :--- | :---: |
-| **Born2beroot** (https://github.com/superAL21/Born2BeRoot)| Configuración inicial de un servidor seguro en Debian/AppArmor con LVM, SSH y Sudo. | `Virtualization` `Linux` `Bash` | `Pass` |
+| [**Born2beroot**] (https://github.com/superAL21/Born2BeRoot)| Configuración inicial de un servidor seguro en Debian/AppArmor con LVM, SSH y Sudo. | `Virtualization` `Linux` `Bash` | `Pass` |
 
 </details>
 
