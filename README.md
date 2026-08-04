@@ -70,9 +70,6 @@ Combinando la **Lingüística** y la **Ingeniería de Software**. Mi pasión rad
 | **push_swap** | Ordenación eficiente de datos en dos stacks con un conjunto limitado de instrucciones. | `C` `Algorithms` `Complexity` | `Pass` |
 | **A-Maze-ing** | Generador visual de laberintos con manejo de restricciones y gráficos. | `C` `Algorithms` `Graphics` | `Pass` *(Bonus)* |
 
-</details>
-
-<details>
 <summary><b>🐧 Administración de Sistemas & Infraestructura</b></summary>
 <br>
 
