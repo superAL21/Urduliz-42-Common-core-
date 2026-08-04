@@ -7,7 +7,7 @@
 ---
 
 ### 💡 Sobre mí
-Combinante de la **Lingüística** y la **Ingeniería de Software**. Mi pasión radica en la intersección entre el lenguaje humano y la inteligencia artificial: el **Procesamiento del Lenguaje Natural (PLN / NLP)**.
+Combinando la **Lingüística** y la **Ingeniería de Software**. Mi pasión radica en la intersección entre el lenguaje humano y la inteligencia artificial: el **Procesamiento del Lenguaje Natural (PLN / NLP)**.
 
 * 🎓 **Formación:** Filología Hispánica **UPV/EHU** + Estudiante del Common Core en **42 Urduliz** (Bizkaia).
 * 🎯 **Enfoque actual:** Programación de sistemas en **C**, desarrollo en **Python**, algoritmos y estructuras de datos.
